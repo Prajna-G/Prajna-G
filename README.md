@@ -7,7 +7,7 @@
 🌱 **What I'm improving right now:**
 - Problem-solving skills (DSA) on **GeeksforGeeks** and **NeetCode**
 - **Software Development using Java**
-- **Python with Data Structures**
+- **Python for machine learning**
 - **Cloud fundamentals (AWS)**
 - **AI/ML fundamentals**
 
