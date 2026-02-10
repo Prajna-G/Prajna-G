@@ -24,21 +24,21 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Stay+hungry%2C+stay+foolish.+-+Steve+Jobs)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PrajnaG&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Prajna-G&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=PrajnaG&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Prajna-G&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PrajnaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Prajna-G&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=PrajnaG&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Prajna-G&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrajnaG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajna-G&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
  
 ### 🔝 Top Contributed Repo
