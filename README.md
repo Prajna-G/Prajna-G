@@ -29,7 +29,4 @@ I am interested in understanding how software is built, deployed, and maintained
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Prajna-G&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajna-G&theme=rose_pine&hide_border=true&layout=compact)
+# 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=Prajna-G&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Prajna-G&theme=rose_pine&hide_border=true)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajna-G&theme=rose_pine&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
